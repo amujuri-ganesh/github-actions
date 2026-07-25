@@ -1,5 +1,3 @@
-# See 17-custom-actions/README.md for more information
-# about how to create and use custom actions in workflows.
 
 name: 10 - Custom Actions - JS
 run-name: 10 - Custom Actions - JS | BB - ${{ inputs.base-branch }} TB - ${{ inputs.target-branch }} WD - ${{ inputs.working-dir }}
